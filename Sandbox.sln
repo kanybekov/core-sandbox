@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "src\Sandbox\Sandbox.csproj", "{19E3CE5F-A9D4-4998-8C23-55D26354E5F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DB6F44CD-C79D-4DAE-9FCF-9EDF184CE0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E3CE5F-A9D4-4998-8C23-55D26354E5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E3CE5F-A9D4-4998-8C23-55D26354E5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E3CE5F-A9D4-4998-8C23-55D26354E5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E3CE5F-A9D4-4998-8C23-55D26354E5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19E3CE5F-A9D4-4998-8C23-55D26354E5F1} = {DB6F44CD-C79D-4DAE-9FCF-9EDF184CE0D9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {379CD3A5-7AC2-4826-B382-248E87B74E83}
+	EndGlobalSection
+EndGlobal
